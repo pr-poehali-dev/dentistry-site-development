@@ -106,7 +106,7 @@ const Index = () => {
               <Icon name="Sparkles" size={24} className="text-white" />
             </div>
             <span className="text-2xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
-              DentaLux
+              Crownberg
             </span>
           </div>
           <div className="hidden md:flex gap-8">
@@ -227,7 +227,7 @@ const Index = () => {
               <Badge className="bg-primary/10 text-primary">О нас</Badge>
               <h2 className="text-4xl font-bold">Стоматология нового поколения</h2>
               <p className="text-muted-foreground text-lg">
-                DentaLux — это современная клиника, где передовые технологии сочетаются с индивидуальным подходом к каждому пациенту.
+                Crownberg — это современная клиника, где передовые технологии сочетаются с индивидуальным подходом к каждому пациенту.
               </p>
               <div className="space-y-4">
                 <div className="flex gap-4">
@@ -396,7 +396,7 @@ const Index = () => {
                   </div>
                   <div>
                     <h3 className="font-semibold mb-1">Email</h3>
-                    <p className="text-muted-foreground">info@dentalux.ru</p>
+                    <p className="text-muted-foreground">info@crownberg.ru</p>
                   </div>
                 </div>
               </div>
@@ -457,7 +457,7 @@ const Index = () => {
                 <div className="w-10 h-10 bg-gradient-to-br from-primary to-secondary rounded-xl flex items-center justify-center">
                   <Icon name="Sparkles" size={24} className="text-white" />
                 </div>
-                <span className="text-2xl font-bold">DentaLux</span>
+                <span className="text-2xl font-bold">Crownberg</span>
               </div>
               <p className="text-white/70">Стоматология европейского уровня в Москве</p>
             </div>
@@ -495,7 +495,7 @@ const Index = () => {
             </div>
           </div>
           <div className="border-t border-white/10 mt-8 pt-8 text-center text-white/70">
-            <p>© 2026 DentaLux. Все права защищены.</p>
+            <p>© 2026 Crownberg. Все права защищены.</p>
           </div>
         </div>
       </footer>
